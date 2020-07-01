@@ -3,5 +3,6 @@ orange
 blue
 red
 green
+teel
 pink
 these are colors of rainbow
