@@ -6,4 +6,5 @@ green
 teel
 indigo
 pink
-these are colors of rainbow
+unicor
+these are colors of rainbow and the unicorn
