@@ -4,5 +4,6 @@ blue
 red
 green
 teel
+indigo
 pink
 these are colors of rainbow
