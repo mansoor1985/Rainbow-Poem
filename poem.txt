@@ -6,6 +6,7 @@ green
 teel
 indigo
 pink
+ponnies
 unicor
 unicorn2
-these are colors of rainbow and the unicorn and unicorn2
+these are colors of rainbow and the unicorn and unicorn2 and ponnies
