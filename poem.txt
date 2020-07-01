@@ -7,4 +7,5 @@ teel
 indigo
 pink
 unicor
-these are colors of rainbow and the unicorn
+unicorn2
+these are colors of rainbow and the unicorn and unicorn2
