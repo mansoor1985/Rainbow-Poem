@@ -2,10 +2,11 @@ purple
 orange
 blue
 red
+master title
 green
 teel
 indigo
 pink
 unicor
 unicorn2
-these are colors of rainbow and the unicorn and unicorn2
+these are colors of rainbow and the unicorn and unicorn2 and master title
